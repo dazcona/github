@@ -13,7 +13,7 @@ A repository for organizing my repositories, research and projects.
 1. [My own template](https://github.com/dazcona/viz): Python, MongoDB, Flask, Bootstrap, Javascript, D3, NVD3, NetworkX, JSNetworkX, Docker
 2. [Twitter](https://github.com/dazcona/twitter): Python, Flask, Bootstrap, Javascript, Docker, Tweepy, TextBlob, Leaflet
 
-# Hackathons
+## Hackathons
 
 1. [Prometheus](https://github.com/santiagxf/prometheus), [Web application](https://github.com/dazcona/prometheus), [Real-time detection](https://github.com/dazcona/real-time-prometheus). Combination of auto-piloted drones & Computer Vision to detect wildfires while they are still in their early stages. Trained a Deep Neural Network using transfer learning technologies & AlexNet, CUDA, Microsoft CNTK & Azure, Docker. Partnered with Arizona State University & Arizona Fire Department. Microsoft Imagine Cup 2018 Awards: USA 1st. place in Artificial Intelligence & 4th overall. World Finals: Top-6 in AI & Semifinalists
 2. [Huawei Celebrity Hunt](https://github.com/dazcona/insighters): Deep Learning Face Recognizer. Crawled the web for pictures, learned embeddings using CNN with CUDA and detected the celebrity using triplets & similarity learning. Huawei's Vision Challenge in Ireland: 4th place and 2nd fastest
@@ -29,7 +29,7 @@ A repository for organizing my repositories, research and projects.
 
 1. [My own template](https://github.com/dazcona/dcu-thesis-template): Dublin City University's School of Computing LaTeX Template
 
-# Learning resouces
+## Learning resouces
 
 1. Algorithms
 2. Data Science
