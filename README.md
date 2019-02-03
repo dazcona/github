@@ -40,6 +40,7 @@ A repository for organizing my repositories, research and projects.
 
 1. [Flask & Azure](https://github.com/dazcona/hello-flask): Python, Flask, Azure App Service Web
 2. [Docker & Flask](https://github.com/dazcona/hello-docker-flask): Flask, Docker & Gunicorn
+3. [Docker, Flask, Nginx & WSGI](https://github.com/dazcona/hello-docker-flask-wsgi): Flask for production using Docker, Nginx & WSGI
 
 ## Contributions
 
