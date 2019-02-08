@@ -6,7 +6,7 @@ A repository for organizing my repositories, research and projects.
 
 1. [user2code2vec](https://github.com/dazcona/user2code2vec): Embeddings for Profiling Students Based on Distributional Representations of Source Code. Full research paper presented at Learning Analytics & Knowledge 2019 Conference in AZ, USA (LAK 2019)
 2. [Irish Politics](https://github.com/dazcona/representation-learning): Learning representations in Irish Politics. I authored a publication on the increasingly popular [RTÉ Brainstorm](https://www.rte.ie/eile/brainstorm/2018/0703/975980-heres-how-data-mining-can-offer-fresh-insights-on-irish-politics/) in collaboration with Dublin City University's School of Law and Government.
-3. Code Assistant: Whatsapp Artificial Intelligence ChatBot to support learning of computer programming.
+3. [Code Assistant](https://github.com/dazcona/code-assistant): Whatsapp Artificial Intelligence ChatBot to support learning of computer programming.
 
 ## Data Visualization
 
@@ -27,7 +27,8 @@ A repository for organizing my repositories, research and projects.
 
 ## Thesis Template
 
-1. [My own template](https://github.com/dazcona/dcu-thesis-template): Dublin City University's School of Computing LaTeX Template
+1. [My own template](https://github.com/dazcona/dcu-thesis-template): Dublin City University's School of Computing LaTeX Template, published as an [Overleaf's teamplate](https://www.overleaf.com/latex/templates/dublin-city-university-phd-thesis-template/swhkfpjmcrfh)
+2. [ACM Proceedings template](https://github.com/dazcona/proceedings): Template to develop programatically the proceedings of an ACM Conference using Python, LaTeX, PDFtk and more
 
 ## Learning resouces
 
