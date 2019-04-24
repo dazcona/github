@@ -31,11 +31,16 @@ A repository for organizing my repositories, research and projects.
 1. [Flask & Keras](https://github.com/dazcona/flask): Flask Boilerplate to consume a Machine Learning model and upload a picture
 2. [DialogFlow & Flask](https://github.com/dazcona/dialogflow): ChatBot Boilerplate using DialogFlow and Flask webhook
 3. [Flask & Scikit-learn](https://github.com/dazcona/zoo): Scikit-learn & Flask using the Zoo dataset
+4. [Flaskerizer](https://github.com/dazcona/flaskerizer): Skeleton of a Flask app
 
 ## Machine Learning
 
 1. [CNN](https://github.com/dazcona/dogs-vs-cats): classification model to distinguishing images of dogs vs cats using Keras
 2. [GAN](https://github.com/dazcona/gan): GAN developed with Keras & MNIST
+
+## Reinforcement Learning
+
+1. [Unity's Obstacle Tower Challenge](https://github.com/dazcona/obstacletower): the goal was to train an agent that traverse the floors of a procedurally generated tower and climb to the highest level possible
 
 ## Thesis Template
 
