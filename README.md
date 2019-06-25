@@ -6,9 +6,10 @@ A repository for organizing my repositories, research and projects.
 
 1. [Prometheus](https://github.com/santiagxf/prometheus), [Web application](https://github.com/dazcona/prometheus), [Real-time detection](https://github.com/dazcona/real-time-prometheus). Combination of auto-piloted drones & Computer Vision to detect wildfires while they are still in their early stages. Trained a Deep Neural Network using transfer learning technologies & AlexNet, CUDA, Microsoft CNTK & Azure, Docker. Partnered with Arizona State University & Arizona Fire Department. Microsoft Imagine Cup 2018 Awards: USA 1st. place in Artificial Intelligence & 4th overall. World Finals: Top-6 in AI & Semifinalists
 2. [Huawei Celebrity Hunt](https://github.com/dazcona/insighters): Deep Learning Face Recognizer. Crawled the web for pictures, learned embeddings using CNN with CUDA and detected the celebrity using triplets & similarity learning. Huawei's Vision Challenge in Ireland: 4th place and 2nd fastest
-3. BlindSpot AI: AI to help blind & visually-impaired people find objects using voice-activated phone scanning. Tensorflow & ImageNet Object Detection Android App. Special Mention award at 2018 Startup Weekend in Google Ireland.
-4. [LoanDog AI](https://github.com/dazcona/loandog): Adaptive Trust Score for Students using their social interactions (Twitter, LinkedIn, etc.) and banking transactions to build a digital footprint that enables Banks to risk assess them for Student Loans. Winners of the Ulster Bank Hackathon 2019 at Dogpatch Labs.
-5. [Sign2Text](https://github.com/dazcona/sign2text): Deep Learning and Computer Vision Sign Language real-time Translator to English using Drone technologies. Competed at 2018 Intel Atrovate AI Hackathon.
+3. BlindSpot AI: AI to help blind & visually-impaired people find objects using voice-activated phone scanning. Tensorflow & ImageNet Object Detection Android App. Special Mention award at 2018 Startup Weekend in Google Ireland
+4. [LoanDog AI](https://github.com/dazcona/loandog): Adaptive Trust Score for Students using their social interactions (Twitter, LinkedIn, etc.) and banking transactions to build a digital footprint that enables Banks to risk assess them for Student Loans. Winners of the Ulster Bank Hackathon 2019 at Dogpatch Labs
+5. ONbank. We use Computer Vision & face recognition with OpenCV to help people with low digital skills. Special Mention at Royal Bank of Scotland’s Fintech Hackathon in Edinburgh, United Kingdom
+6. [Sign2Text](https://github.com/dazcona/sign2text): Deep Learning and Computer Vision Sign Language real-time Translator to English using Drone technologies. Competed at 2018 Intel Atrovate AI Hackathon
 
 ## Boilerplates
 
