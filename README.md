@@ -8,7 +8,7 @@ A repository for organizing my repositories, research and projects.
 2. [Huawei Celebrity Hunt](https://github.com/dazcona/insighters): Deep Learning Face Recognizer. Crawled the web for pictures, learned embeddings using CNN with CUDA and detected the celebrity using triplets & similarity learning. Huawei's Vision Challenge in Ireland: 4th place and 2nd fastest
 3. BlindSpot AI: AI to help blind & visually-impaired people find objects using voice-activated phone scanning. Tensorflow & ImageNet Object Detection Android App. Special Mention award at 2018 Startup Weekend in Google Ireland
 4. [LoanDog AI](https://github.com/dazcona/loandog): Adaptive Trust Score for Students using their social interactions (Twitter, LinkedIn, etc.) and banking transactions to build a digital footprint that enables Banks to risk assess them for Student Loans. Winners of the Ulster Bank Hackathon 2019 at Dogpatch Labs
-5. ONbank. We use Computer Vision & face recognition with OpenCV to help people with low digital skills. Special Mention at Royal Bank of Scotland’s Fintech Hackathon in Edinburgh, United Kingdom
+5. [ONbank](https://github.com/enric1994/onbank): We use Computer Vision & face recognition with OpenCV to help people with low digital skills. Special Mention at Royal Bank of Scotland’s Fintech Hackathon in Edinburgh, United Kingdom
 6. [Sign2Text](https://github.com/dazcona/sign2text): Deep Learning and Computer Vision Sign Language real-time Translator to English using Drone technologies. Competed at 2018 Intel Atrovate AI Hackathon
 
 ## Boilerplates
@@ -20,24 +20,28 @@ A repository for organizing my repositories, research and projects.
 5. [Flask & Azure](https://github.com/dazcona/hello-flask): Python, Flask, Azure App Service Web
 6. [Docker & Flask](https://github.com/dazcona/hello-docker-flask): Flask, Docker & Gunicorn
 7. [Docker, Flask, Nginx & WSGI](https://github.com/dazcona/hello-docker-flask-wsgi): Flask for production using Docker, Nginx & WSGI
+8. [Flask & Flask-Login](https://github.com/dazcona/flask-login): Flask Login Boilerplate to have a ready web app with user authentication 
+9. [Flask & Google Login](https://github.com/dazcona/flask-login-google): Flask Login with Google Login Boilerplate to have a ready web app with user authentication provided by Google
 
 ## Machine Learning
 
-1. [CNN](https://github.com/dazcona/dogs-vs-cats): classification model to distinguishing images of dogs vs cats using Keras
-2. [GAN](https://github.com/dazcona/gan): GAN developed with Keras & MNIST
+1. [Predictive Modeling for Student Classification](https://github.com/dazcona/edm-modelling): Automatically detecting students at-risk of failing a computer-based examination in computer programming courses at Dublin City University
+2. [CNN: Dogs vs Cats](https://github.com/dazcona/dogs-vs-cats): classification model to distinguishing images of dogs vs cats using Keras
+3. [CNN: Dogs vs Cats vs Pandas](https://github.com/dazcona/dogs-vs-cats-vs-pandas)
+4. [GAN: MNIST](https://github.com/dazcona/gan): GAN developed with Keras & MNIST
+
+## Data Mining
+
+1. [Dublin City University's first-years](https://github.com/dazcona/edm-dcu): Analysis on 16K first-year students
+
+## Engagement Studies
+
+1. [Student Interventions](https://github.com/dazcona/edm-engagement): Adaptive feedback in computer programming modules at Dublin City University
 
 ## Embeddings
 
 1. [user2code2vec](https://github.com/dazcona/user2code2vec): Embeddings for Profiling Students Based on Distributional Representations of Source Code. Full research paper presented at Learning Analytics & Knowledge 2019 Conference in AZ, USA (LAK 2019)
 2. [Irish Politics](https://github.com/dazcona/representation-learning): Learning representations in Irish Politics. I authored a publication on the increasingly popular [RTÉ Brainstorm](https://www.rte.ie/eile/brainstorm/2018/0703/975980-heres-how-data-mining-can-offer-fresh-insights-on-irish-politics/) in collaboration with Dublin City University's School of Law and Government
-
-## Reinforcement Learning
-
-1. [Unity's Obstacle Tower Challenge](https://github.com/dazcona/obstacletower): the goal was to train an agent that traverse the floors of a procedurally generated tower and climb to the highest level possible
-
-## Chatbots
-
-1. [Code Assistant](https://github.com/dazcona/code-assistant): Whatsapp Artificial Intelligence ChatBot to support learning of computer programming. Check out also its [proof of concept](https://github.com/dazcona/code-assistant-web)
 
 ## Data Visualization
 
@@ -46,20 +50,25 @@ A repository for organizing my repositories, research and projects.
 
 ## Network Analysis
 
-1. [Networks](https://github.com/dazcona/networks): Les Miserables, Karate and Enron email datasets
-2. EdX Math MOOCs
+1. [EdX Math MOOCs](https://github.com/dazcona/edm-networks): Modelling Math Learning on an Open Access Intelligent Tutor
+2. [Sample Networks](https://github.com/dazcona/networks): Les Miserables, Karate and Enron email datasets
+
+## Chatbots
+
+1. [Code Assistant](https://github.com/dazcona/code-assistant): Whatsapp Artificial Intelligence ChatBot to support learning of computer programming. Check out also its [proof of concept](https://github.com/dazcona/code-assistant-web)
+
+## Reinforcement Learning
+
+1. [Unity's Obstacle Tower Challenge](https://github.com/dazcona/obstacletower): the goal was to train an agent that traverse the floors of a procedurally generated tower and climb to the highest level possible
+
+## Projects for Companies
+
+1. Panalpina: Web application for Panalpina to visualize 3D Reconstruction using Computer Vision
 
 ## Thesis Template
 
 1. [My own template](https://github.com/dazcona/dcu-thesis-template): Dublin City University's School of Computing LaTeX Template, published as an [Overleaf's teamplate](https://www.overleaf.com/latex/templates/dublin-city-university-phd-thesis-template/swhkfpjmcrfh)
 2. [ACM Proceedings template](https://github.com/dazcona/proceedings): Template to develop programatically the proceedings of an ACM Conference using Python, LaTeX, PDFtk and more
-
-## Learning resouces
-
-1. Algorithms
-2. Data Science
-3. Machine Learning
-4. Deep Learning
 
 ## Contributions
 
