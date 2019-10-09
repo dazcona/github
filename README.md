@@ -10,6 +10,7 @@ A repository for organizing my repositories, research and projects.
 4. [LoanDog AI](https://github.com/dazcona/loandog): Adaptive Trust Score for Students using their social interactions (Twitter, LinkedIn, etc.) and banking transactions to build a digital footprint that enables Banks to risk assess them for Student Loans. Winners of the Ulster Bank Hackathon 2019 at Dogpatch Labs
 5. [ONbank](https://github.com/enric1994/onbank): We use Computer Vision & face recognition with OpenCV to help people with low digital skills. Special Mention at Royal Bank of Scotland’s Fintech Hackathon in Edinburgh, United Kingdom
 6. [Sign2Text](https://github.com/dazcona/sign2text): Deep Learning and Computer Vision Sign Language real-time Translator to English using Drone technologies. Competed at 2018 Intel Atrovate AI Hackathon
+7. [Canary AI](https://github.com/dazcona/eduhack): ChatBot for miners that uses Computer Vision, AI & Data Analytics to achieve a zero-harm workplace. Runners up at Trinity Learnovate's Digital Education Hack organised by the European Commission
 
 ## Boilerplates
 
