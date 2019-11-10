@@ -4,7 +4,7 @@ A repository for organizing my repositories, research and projects.
 
 ## Latest
 
-1. Memorability. Insight@DCU participation in the Memorability Challenge at MediaEval 2019. The task is to predict how memorable a video is to viewers. Techniques used: Traditional Machine Learning & Deep Learning with Embeddings for video captions, Transfer Learning w/ Neural Network activations as features and fine-tuning our own networks.
+1. [Memorability](https://github.com/dazcona/memorability). Insight@DCU participation in the Memorability Challenge at MediaEval 2019. The task is to predict how memorable a video is to viewers. Techniques used: Traditional Machine Learning & Deep Learning with Embeddings for video captions, Transfer Learning w/ Neural Network activations as features and fine-tuning our own networks.
 
 ## Hackathons
 
@@ -16,6 +16,11 @@ A repository for organizing my repositories, research and projects.
 6. [Sign2Text](https://github.com/dazcona/sign2text): Deep Learning and Computer Vision Sign Language real-time Translator to English using Drone technologies. Competed at 2018 Intel Atrovate AI Hackathon
 7. [Canary AI](https://github.com/dazcona/eduhack): ChatBot for miners that uses Computer Vision, AI & Data Analytics to achieve a zero-harm workplace. **Runners up** at Trinity Learnovate's Digital Education Hack organised by the European Commission
 8. [Hack the Crash](https://github.com/dazcona/hackthecrash): Machine Learning pipeline to predict accident severity and a ChatBot that provides bite-sized advice to drivers. **Winners** at at HackUPC 2019 for McKinsey & Company's challenge in Barcelona
+
+## Tools & APIs
+
+1. [bibtex.online](http://bibtex.online/): Convert your BibTeX bibliographies into text on the fly!
+2. [InclusiveAI](http://inclusiveai.ml/): Deep Learning technology to unbias recruiting. We developed tools to remove biases in recruitment such us scrubbing any kind of personal information from resumes. We apply the latest Computer Vision techniques to remove gender, race and age from pictures and Natural Language Processing techniques to remove personal details.
 
 ## Boilerplates
 
@@ -74,7 +79,7 @@ A repository for organizing my repositories, research and projects.
 ## Thesis Template
 
 1. [My own template](https://github.com/dazcona/dcu-thesis-template): Dublin City University's School of Computing LaTeX Template, published as an [Overleaf's teamplate](https://www.overleaf.com/latex/templates/dublin-city-university-phd-thesis-template/swhkfpjmcrfh)
-2. [ACM Proceedings template](https://github.com/dazcona/proceedings): Template to develop programatically the proceedings of an ACM Conference using Python, LaTeX, PDFtk and more
+2. [My ACM Proceedings template](https://github.com/dazcona/proceedings): Template to develop programatically the proceedings of an ACM Conference using Python, LaTeX, PDFtk and more
 
 ## Contributions
 
