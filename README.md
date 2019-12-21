@@ -19,8 +19,9 @@ A repository for organizing my repositories, research and projects.
 
 ## Tools & APIs
 
-1. [bibtex.online](http://bibtex.online/): Convert your BibTeX bibliographies into text on the fly!
-2. [InclusiveAI](http://inclusiveai.ml/): Deep Learning technology to unbias recruiting. We developed tools to remove biases in recruitment such us scrubbing any kind of personal information from resumes. We apply the latest Computer Vision techniques to remove gender, race and age from pictures and Natural Language Processing techniques to remove personal details.
+1. [bibtex.online](https://bibtex.online/): Convert your BibTeX bibliographies into text on the fly!
+2. [InclusiveAI](https://inclusiveai.ml/): Deep Learning technology to unbias recruiting. We developed tools to remove biases in recruitment such us scrubbing any kind of personal information from resumes. We apply the latest Computer Vision techniques to remove gender, race and age from pictures and Natural Language Processing techniques to remove personal details.
+3. [Map4all](https://map4all.ml/): Find shops near you to spend your [one4all](https://www.one4all.ie/) vouchers.
 
 ## Boilerplates
 
