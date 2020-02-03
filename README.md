@@ -17,7 +17,8 @@ A repository for organizing my repositories, research and projects.
 7. [Canary AI](https://github.com/dazcona/eduhack): ChatBot for miners that uses Computer Vision, AI & Data Analytics to achieve a zero-harm workplace. **Runners up** at Trinity Learnovate's Digital Education Hack organised by the European Commission
 8. [Hack the Crash](https://github.com/dazcona/hackthecrash): Machine Learning pipeline to predict accident severity and a ChatBot that provides bite-sized advice to drivers. **Winners** at HackUPC 2019 for McKinsey & Company's challenge in Barcelona, Spain
 9. Earthquake Damage. Runners up at McKinsey & Company's CityCup 2019 in Madrid, Spain
-10. Elephant AI. Create visual mind maps from text using NLP techniques, enabling better & quicker memory recall
+10. [LocoDrone](https://github.com/dazcona/locodrone): Collaborative drone flying. **Winners** of Most Inventive Hack & Hackers' Choice awards at Oxford Hack 2019, Oxford University, United Kingdom
+11. Elephant AI. Create visual mind maps from text using NLP techniques, enabling better & quicker memory recall
 
 ## Tools & APIs
 
