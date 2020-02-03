@@ -90,6 +90,10 @@ A repository for organizing my repositories, research and projects.
 
 1. [Keras tutorial](https://github.com/dazcona/tf-keras-tutorial): forked from [K. Nathaniel Tucker's](https://github.com/knathanieltucker/tf-keras-tutorial)
 
+## Algorithms & Data Structures
+
+1. [Basic Algorithms](https://github.com/dazcona/algorithms)
+
 ## Website
 
 1. [My personal website](https://github.com/dazcona/website): <https://computing.dcu.ie/~dazcona/> using Jekyll, Jekyll-Scholar and Bootstrap.
