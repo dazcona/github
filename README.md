@@ -15,13 +15,16 @@ A repository for organizing my repositories, research and projects.
 5. [ONbank](https://github.com/enric1994/onbank): We use Computer Vision & face recognition with OpenCV to help people with low digital skills. **Special Mention** at Royal Bank of Scotland’s Fintech Hackathon in Edinburgh, United Kingdom
 6. [Sign2Text](https://github.com/dazcona/sign2text): Deep Learning and Computer Vision Sign Language real-time Translator to English using Drone technologies. Competed at 2018 Intel Atrovate AI Hackathon
 7. [Canary AI](https://github.com/dazcona/eduhack): ChatBot for miners that uses Computer Vision, AI & Data Analytics to achieve a zero-harm workplace. **Runners up** at Trinity Learnovate's Digital Education Hack organised by the European Commission
-8. [Hack the Crash](https://github.com/dazcona/hackthecrash): Machine Learning pipeline to predict accident severity and a ChatBot that provides bite-sized advice to drivers. **Winners** at at HackUPC 2019 for McKinsey & Company's challenge in Barcelona
+8. [Hack the Crash](https://github.com/dazcona/hackthecrash): Machine Learning pipeline to predict accident severity and a ChatBot that provides bite-sized advice to drivers. **Winners** at HackUPC 2019 for McKinsey & Company's challenge in Barcelona, Spain
+9. Earthquake Damage. Runners up at McKinsey & Company's CityCup 2019 in Madrid, Spain
+10. Elephant AI. Create visual mind maps from text using NLP techniques, enabling better & quicker memory recall
 
 ## Tools & APIs
 
 1. [bibtex.online](https://bibtex.online/): Convert your BibTeX bibliographies into text on the fly!
 2. [InclusiveAI](https://inclusiveai.ml/): Deep Learning technology to unbias recruiting. We developed tools to remove biases in recruitment such us scrubbing any kind of personal information from resumes. We apply the latest Computer Vision techniques to remove gender, race and age from pictures and Natural Language Processing techniques to remove personal details.
 3. [Map4all](https://map4all.ml/): Find shops near you to spend your [one4all](https://www.one4all.ie/) vouchers.
+4. Lezkairu
 
 ## Boilerplates
 
@@ -90,6 +93,10 @@ A repository for organizing my repositories, research and projects.
 
 1. [My personal website](https://github.com/dazcona/website): <https://computing.dcu.ie/~dazcona/> using Jekyll, Jekyll-Scholar and Bootstrap.
 2. [dazcona.github.io](https://github.com/dazcona/dazcona.github.io)
+
+## Other Resources
+
+1. [Fabric](https://github.com/dazcona/fab): Pythonic remote execution 
 
 ## Online presence
 
